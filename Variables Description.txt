@@ -1,0 +1,24 @@
+
+Surname : Customer's Surname
+
+CreditScore : Customer's credit score
+
+Geography : Country
+
+Gender : (Female/Male)
+
+Age : Customer's Age
+
+Tenure : How many years of customer.
+
+Balance : Customer's balance
+
+NumOfProducts : Number of bank products are used
+
+HasCrCard : Credit card status (0=No,1=Yes)
+
+IsActiveMember : Active membership status (0=No,1=Yes)
+
+EstimatedSalary : Customers estimated salary
+
+Exited : Churn or not? (0=No,1=Yes)
